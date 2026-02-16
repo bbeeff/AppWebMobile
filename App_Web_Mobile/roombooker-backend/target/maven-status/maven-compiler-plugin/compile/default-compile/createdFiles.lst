@@ -1,0 +1,15 @@
+it/unicam/roombooker/repository/RoomRepository.class
+it/unicam/roombooker/model/Room.class
+it/unicam/roombooker/repository/ReservationRepository.class
+it/unicam/roombooker/service/ReservationService.class
+it/unicam/roombooker/model/User.class
+it/unicam/roombooker/RoombookerBackendApplication.class
+it/unicam/roombooker/model/Role.class
+it/unicam/roombooker/config/DataInitializer.class
+it/unicam/roombooker/service/RoomService.class
+it/unicam/roombooker/controller/RoomController.class
+it/unicam/roombooker/controller/ReservationController.class
+it/unicam/roombooker/model/ReservationStatus.class
+it/unicam/roombooker/repository/UserRepository.class
+it/unicam/roombooker/security/SecurityConfig.class
+it/unicam/roombooker/model/Reservation.class

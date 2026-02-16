@@ -1,0 +1,15 @@
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/model/ReservationStatus.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/service/RoomService.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/model/Reservation.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/model/User.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/model/Role.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/repository/ReservationRepository.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/security/SecurityConfig.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/RoombookerBackendApplication.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/service/ReservationService.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/repository/UserRepository.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/controller/RoomController.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/repository/RoomRepository.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/config/DataInitializer.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/model/Room.java
+/Users/nicologregori/Desktop/App_Web_Mobile/roombooker-backend/src/main/java/it/unicam/roombooker/controller/ReservationController.java
