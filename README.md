@@ -25,30 +25,12 @@
 - Export dati in PDF e CSV
 
 ---
-
 ## Tecnologie Utilizzate
 
 ### Frontend
-| Tecnologia | Versione | Utilizzo |
-|-----------|---------|---------|
-| Angular | 17+ | Framework principale |
-| TypeScript | 5.x | Linguaggio di sviluppo |
-| Angular Material | 17+ | Componenti UI (datepicker) |
-| Bootstrap | 5.x | Layout e responsive design |
-| Font Awesome | 6.5 | Icone |
-| RxJS | 7.x | Programmazione reattiva |
-
+Angular 17, TypeScript, Angular Material, Bootstrap 5, Font Awesome 6, RxJS
 ### Backend
-| Tecnologia | Versione | Utilizzo |
-|-----------|---------|---------|
-| Java | 21 | Linguaggio di sviluppo |
-| Spring Boot | 3.2.2 | Framework principale |
-| Spring Security | 6.2.1 | Autenticazione e autorizzazione |
-| Spring Data JPA | 3.2.2 | Persistenza dati |
-| Hibernate | 6.4.1 | ORM |
-| H2 Database | 2.2.224 | Database in-memory/file |
-| JJWT | 0.11.5 | Generazione e validazione token JWT |
-
+Java 21, Spring Boot 3.2.2, Spring Security 6.2.1, Spring Data JPA, Hibernate 6.4.1, H2 Database, JJWT 0.11.5|
 ---
 
 ## Struttura del Progetto
