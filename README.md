@@ -30,7 +30,8 @@
 ### Frontend
 Angular 17, TypeScript, Angular Material, Bootstrap 5, Font Awesome 6, RxJS
 ### Backend
-Java 21, Spring Boot 3.2.2, Spring Security 6.2.1, Spring Data JPA, Hibernate 6.4.1, H2 Database, JJWT 0.11.5|
+Java 21, Spring Boot 3.2.2, Spring Security 6.2.1, Spring Data JPA, Hibernate 6.4.1, H2 Database, JJWT 0.11.5
+
 ---
 
 ## Struttura del Progetto
